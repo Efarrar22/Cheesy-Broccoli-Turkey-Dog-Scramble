@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: Eldwin Script, script;
+    font-family: edwin, script;
     line-height: 1.6;
     background-color: #f4f4f4;
     color: #333;
@@ -102,7 +102,6 @@ ul li, ol li {
     margin-bottom: 10px;
     font-size: 1.1em;
 }
-
 /* Action buttons */
 .action-buttons {
     text-align: center;
